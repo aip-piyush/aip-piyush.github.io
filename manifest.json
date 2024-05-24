@@ -1,6 +1,6 @@
 {
-    "name": "flutter_web_deploy",
-    "short_name": "flutter_web_deploy",
+    "name": "clean_architecture_demo",
+    "short_name": "clean_architecture_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
